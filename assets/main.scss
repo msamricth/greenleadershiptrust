@@ -4,7 +4,7 @@
 
 @import '../../theme-main/node_modules/bootstrap/scss/functions';
 @import '../../theme-main/assets/scss/variables';
-@import '/scss/variables'; //your child theme variables
+@import 'scss/variables'; //your child theme variables
 
 @import '../../theme-main/assets/scss/bootstrap';
 @import '../../theme-main/assets/scss/mixins';
@@ -23,4 +23,4 @@
 @import '../../theme-main/assets/scss/carousel';
 
 
-@import '/scss/custom'; //your child theme styles
+@import 'scss/custom'; //your child theme styles
